@@ -1,4 +1,4 @@
-🚀 Instalación de Steam en Arch Linux + Compatibilidad Steam Deck 🎮🐧
+🚀 Instalación de Steam en Arch Linux / Ubuntu + Compatibilidad Steam Deck 🎮🐧
 Esta guía te mostrará cómo instalar Steam en Arch Linux y configurar tu sistema para que Steam lo detecte como una Steam Deck, lo cual puede mejorar la compatibilidad con ciertos juegos y habilitar características exclusivas.
 
 📦 Paso 1: Actualiza tu sistema
