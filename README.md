@@ -284,7 +284,3 @@ Ejecuta el script:
 ./setup_steamdeck.sh
 
 ```
-
-```
-
-```
